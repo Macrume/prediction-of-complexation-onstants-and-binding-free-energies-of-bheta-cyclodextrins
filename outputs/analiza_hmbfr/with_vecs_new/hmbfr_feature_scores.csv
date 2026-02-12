@@ -1,0 +1,167 @@
+,score
+TPSA,1.487506150257072
+MolecularWeight,1.487506150257072
+Complexity,1.487506150257072
+HBondDonorCount,1.2780241348898507
+HBondAcceptorCount,1.2780241348898507
+HeavyAtomCount,1.2780241348898507
+iso2vec-0,1.274221673018193
+MolLogP,1.274221673018193
+iso2vec-1,1.274221673018193
+iso2vec-2,1.2500684445738117
+iso2vec-3,1.2500684445738117
+AlogP (Fast Descriptors),1.1942975297654235
+Molecular refractivity (Fast Descriptors),1.1942975297654235
+AlogP98 (Fast Descriptors),1.1942975297654235
+Charge,1.0828960359113884
+Rotatable bonds (Fast Descriptors),1.0822589973887664
+Element count (Atomistic Descriptors),1.0822589973887664
+Hydrogen bond donor (Fast Descriptors),1.0822589973887664
+Molecular flexibility (Fast Descriptors),1.0577092131143573
+Atom count (Atomistic Descriptors),1.0546140226771668
+Shadow area fraction: YZ plane (Spatial Descriptors),1.0293353768509461
+Shadow area fraction: XY plane (Spatial Descriptors),1.0293353768509461
+Shadow area: ZX plane (Spatial Descriptors),1.0293353768509461
+Shadow area fraction: ZX plane (Spatial Descriptors),0.997612341119172
+Shadow length: LX (Spatial Descriptors),0.997612341119172
+Ellipsoidal volume (Spatial Descriptors),0.9638398049710074
+Shadow area: XY plane (Spatial Descriptors),0.9638398049710074
+Radius of gyration (Spatial Descriptors),0.9638398049710074
+Solvent surface area (Atom Volumes and Surfaces),0.9296652504330055
+Connolly surface occupied volume (Atom Volumes and Surfaces),0.9296652504330055
+Connolly surface area (Atom Volumes and Surfaces),0.9296652504330055
+Kappa-1 (Fast Descriptors),0.9071865566923316
+Zagreb index (Fast Descriptors),0.9071865566923316
+Kappa-2 (Fast Descriptors),0.9071865566923316
+Shadow ratio (Spatial Descriptors),0.8850245613596988
+Shadow length: LZ (Spatial Descriptors),0.8850245613596988
+iso2vec-4,0.871098285367506
+iso2vec-5,0.871098285367506
+iso2vec-6,0.871098285367506
+Chi (1) (valence modified) (Fast Descriptors),0.8705745299304706
+Chi (2) (valence modified) (Fast Descriptors),0.8705745299304706
+Chi (3): path (valence modified) (Fast Descriptors),0.8705745299304706
+Chi (3): chain (Fast Descriptors),0.8679922998716427
+Chi (0) (valence modified) (Fast Descriptors),0.8679922998716427
+Solvent surface occupied volume (Atom Volumes and Surfaces),0.8644695990988336
+Subgraph counts (0): path (Fast Descriptors),0.8628880579728466
+Kappa-3 (alpha modified) (Fast Descriptors),0.8628880579728466
+Subgraph counts (1): path (Fast Descriptors),0.8628880579728466
+iso2vec-7,0.862386022714104
+Hydrogen bond acceptor (Fast Descriptors),0.8567581554392205
+Chiral centers (Fast Descriptors),0.8567581554392205
+E-state keys (sums): S_sCH3 (Fast Descriptors),0.8566438318660508
+E-state keys (sums): S_dCH2 (Fast Descriptors),0.8566438318660508
+E-state keys (sums): S_ssCH2 (Fast Descriptors),0.8566438318660508
+Kappa-2 (alpha modified) (Fast Descriptors),0.8550812796384513
+Kappa-1 (alpha modified) (Fast Descriptors),0.8550812796384513
+Kappa-3 (Fast Descriptors),0.8550812796384513
+Shadow length: LY (Spatial Descriptors),0.8430884896971569
+Shadow area: YZ plane (Spatial Descriptors),0.8421441171547399
+Wiener index (Fast Descriptors),0.8217352133383224
+Chi (3): cluster (valence modified) (Fast Descriptors),0.8092543046597065
+Secondary butyl (Fragment Counts),0.8012196595446592
+Methyl (Fragment Counts),0.8012196595446592
+Propyl (Fragment Counts),0.8012196595446592
+Principal moment of inertia Y (Spatial Descriptors),0.796637742412472
+Principal moment of inertia Z (Spatial Descriptors),0.796637742412472
+Structural information content (SIC) (Fast Descriptors),0.79444608538007
+Edge adjacency/magnitude (Fast Descriptors),0.79444608538007
+Complementary information content (CIC) (Fast Descriptors),0.79444608538007
+Subgraph counts (3): path (Fast Descriptors),0.7941302973986641
+Subgraph counts (3): cluster (Fast Descriptors),0.7941302973986641
+Subgraph counts (2): path (Fast Descriptors),0.7941302973986641
+Balaban index JY (Fast Descriptors),0.7901374262993381
+Balaban index JX (Fast Descriptors),0.7901374262993381
+E-state keys (sums): S_aaCH (Fast Descriptors),0.7874105684664889
+E-state keys (sums): S_dsCH (Fast Descriptors),0.7874105684664889
+E-state keys (sums): S_tCH (Fast Descriptors),0.7874105684664889
+Molecular area (vdW area) (Spatial Descriptors),0.7850833879264163
+E-state keys (sums): S_sssdAs (Fast Descriptors),0.7850833879264163
+Molecular volume (vdW volume) (Spatial Descriptors),0.7850833879264163
+Chi (0) (Fast Descriptors),0.7819122418956745
+Subgraph counts (3): chain (Fast Descriptors),0.7819122418956745
+Chi (1) (Fast Descriptors),0.7819122418956745
+Chi (2) (Fast Descriptors),0.7752268490537352
+Chi (3): path (Fast Descriptors),0.7752268490537352
+Total formal charge (Atomistic Descriptors),0.7745432487117789
+Total molecular mass (Atomistic Descriptors),0.7745432487117789
+Chi (3): cluster (Fast Descriptors),0.7723088016275306
+Chi (3): chain (valence modified) (Fast Descriptors),0.6910175877517964
+Information content (IC) (Fast Descriptors),0.6910175877517964
+Principal moments of inertia (magnitude) (Spatial Descriptors),0.6771208355947682
+Molecular density (Spatial Descriptors),0.6771208355947682
+Principal moment of inertia X (Spatial Descriptors),0.6771208355947682
+E-state keys (sums): S_sssCH (Fast Descriptors),0.6700941628256417
+E-state keys (sums): S_tsC  (Fast Descriptors),0.6700941628256417
+iso2vec-8,0.6581298562319289
+iso2vec-9,0.6581298562319289
+Edge distance/magnitude (Fast Descriptors),0.6552254652052498
+Vertex adjacency/equality (Fast Descriptors),0.6552254652052498
+E-state keys (sums): S_sssAs (Fast Descriptors),0.6434606721055555
+Vertex adjacency/magnitude (Fast Descriptors),0.6388650985738427
+Atomic composition (total) (Fast Descriptors),0.6234413008279809
+Vertex distance/equality (Fast Descriptors),0.588636991180437
+Vertex distance/magnitude (Fast Descriptors),0.588636991180437
+Indole (Fragment Counts),0.5571774589290286
+Butyl (Fragment Counts),0.5432829178081142
+Ethylene (Fragment Counts),0.5432829178081142
+Ethyl (Fragment Counts),0.5432829178081142
+Isopropyl (Fragment Counts),0.5114361941149244
+Isobutyl (Fragment Counts),0.5114361941149244
+Bond information content (BIC) (Fast Descriptors),0.4714453139885881
+Tertiary butyl (Fragment Counts),0.4647610916951792
+Amide (Fragment Counts),0.4646340221491194
+E-state keys (sums): S_ssNH2 (Fast Descriptors),0.45805098727314625
+E-state keys (sums): S_ssNH (Fast Descriptors),0.45805098727314625
+E-state keys (sums): S_aaNH (Fast Descriptors),0.45805098727314625
+Tosyl (Fragment Counts),0.44572381063490163
+E-state keys (sums): S_tN (Fast Descriptors),0.4260991743340846
+E-state keys (sums): S_aasC (Fast Descriptors),0.38901840791613357
+E-state keys (sums): S_aaaC (Fast Descriptors),0.38901840791613357
+E-state keys (sums): S_ssssC (Fast Descriptors),0.38901840791613357
+E-state keys (sums): S_ssssN (Fast Descriptors),0.35930858559629625
+E-state keys (sums): S_dO (Fast Descriptors),0.35930858559629625
+E-state keys (sums): S_sOH (Fast Descriptors),0.35930858559629625
+Methanal (Fragment Counts),0.3463658304918268
+Methoxy (Fragment Counts),0.3463658304918268
+Hydroxy (Fragment Counts),0.3463658304918268
+E-state keys (sums): S_aaO (Fast Descriptors),0.3209214870180316
+E-state keys (sums): S_ssO (Fast Descriptors),0.3209214870180316
+E-state keys (sums): S_aasN (Fast Descriptors),0.30549248683425534
+E-state keys (sums): S_sssN (Fast Descriptors),0.29677020948786825
+E-state keys (sums): S_ddsN (Fast Descriptors),0.29677020948786825
+E-state keys (sums): S_aaN (Fast Descriptors),0.29677020948786825
+Amine (Fragment Counts),0.2865638066654417
+Carboxylate (Fragment Counts),0.2865638066654417
+Carboxylic Acid (Fragment Counts),0.2865638066654417
+E-state keys (sums): S_sNH3 (Fast Descriptors),0.2863450441511398
+E-state keys (sums): S_sNH2 (Fast Descriptors),0.2863450441511398
+Nitrile (Fragment Counts),0.22189295125588807
+E-state keys (sums): S_sSH (Fast Descriptors),0.22026562867625393
+E-state keys (sums): S_dssC (Fast Descriptors),0.21745475147108675
+Phenyl (Fragment Counts),0.21735759594303478
+Cyclohexane (Fragment Counts),0.21735759594303478
+E-state keys (sums): S_dsN (Fast Descriptors),0.19920069743882687
+E-state keys (sums): S_sssNH (Fast Descriptors),0.19920069743882687
+E-state keys (sums): S_aaS (Fast Descriptors),0.1954459679350342
+E-state keys (sums): S_ssS (Fast Descriptors),0.1954459679350342
+E-state keys (sums): S_dS (Fast Descriptors),0.1954459679350342
+Glycol (Fragment Counts),0.18910211514217687
+Glycerol (Fragment Counts),0.18910211514217687
+E-state keys (sums): S_sF (Fast Descriptors),0.13669977888338242
+E-state keys (sums): S_sBr (Fast Descriptors),0.13669977888338242
+E-state keys (sums): S_sCl (Fast Descriptors),0.13669977888338242
+E-state keys (sums): S_dssS (Fast Descriptors),0.12903112527561533
+E-state keys (sums): S_ddssS (Fast Descriptors),0.12903112527561533
+Oxime (Fragment Counts),0.10835377566281346
+Phenoxy (Fragment Counts),0.10835377566281346
+Quaternary amine (Fragment Counts),0.10835377566281346
+E-state keys (sums): S_dsssP (Fast Descriptors),0.10644526131390442
+Nitro (Fragment Counts),0.08985000461066062
+Nitroso (Fragment Counts),0.08985000461066062
+E-state keys (sums): S_sI (Fast Descriptors),0.0741606224092673
+E-state keys (sums): S_ssssB (Fast Descriptors),0.0741606224092673
+Sulfonic acid (Fragment Counts),0.07240883150253022
+Sulfoxy amide (Fragment Counts),0.06799040098180399
+Thiol (Fragment Counts),0.06799040098180399

@@ -1,0 +1,51 @@
+,0
+TPSA,0.01594474069374605
+MolecularWeight,0.0318894813874921
+Complexity,0.047834222081238144
+MolLogP,0.0637628336807225
+Amide (Fragment Counts),0.07969144528020684
+HeavyAtomCount,0.09562005687969119
+Element count (Atomistic Descriptors),0.10875935765955139
+Rotatable bonds (Fast Descriptors),0.1218986584394116
+Hydrogen bond donor (Fast Descriptors),0.1350379592192718
+Molecular flexibility (Fast Descriptors),0.14613981615732094
+Molecular refractivity (Fast Descriptors),0.15724167309537007
+AlogP98 (Fast Descriptors),0.16834353003341923
+Shadow area: ZX plane (Spatial Descriptors),0.1791475714026198
+Shadow area fraction: XY plane (Spatial Descriptors),0.18995161277182035
+Shadow area fraction: YZ plane (Spatial Descriptors),0.20075565414102092
+Shadow ratio (Spatial Descriptors),0.21047509412292334
+Shadow length: LZ (Spatial Descriptors),0.22019453410482576
+Connolly surface area (Atom Volumes and Surfaces),0.22991397408672817
+Zagreb index (Fast Descriptors),0.23957704209923214
+Kappa-1 (Fast Descriptors),0.2492401101117361
+Kappa-2 (Fast Descriptors),0.2589031781242401
+Shadow length: LY (Spatial Descriptors),0.26837371812811794
+Shadow length: LX (Spatial Descriptors),0.2778442581319958
+Shadow area fraction: ZX plane (Spatial Descriptors),0.2873147981358737
+Chi (0) (valence modified) (Fast Descriptors),0.2965431355241009
+Chi (3): chain (Fast Descriptors),0.3057714729123281
+Chi (1) (valence modified) (Fast Descriptors),0.31499981030055535
+Structural information content (SIC) (Fast Descriptors),0.3242208906202176
+Complementary information content (CIC) (Fast Descriptors),0.3334419709398798
+Edge adjacency/magnitude (Fast Descriptors),0.34266305125954205
+Connolly surface occupied volume (Atom Volumes and Surfaces),0.35173663944190225
+Solvent surface occupied volume (Atom Volumes and Surfaces),0.36081022762426246
+Solvent surface area (Atom Volumes and Surfaces),0.36988381580662266
+Subgraph counts (0): path (Fast Descriptors),0.37894080392243845
+Kappa-3 (alpha modified) (Fast Descriptors),0.3879977920382542
+Subgraph counts (1): path (Fast Descriptors),0.39705478015407
+Chiral centers (Fast Descriptors),0.4060474279955186
+AlogP (Fast Descriptors),0.41504007583696717
+Hydrogen bond acceptor (Fast Descriptors),0.42403272367841577
+E-state keys (sums): S_sCH3 (Fast Descriptors),0.4330241715643962
+E-state keys (sums): S_dCH2 (Fast Descriptors),0.44201561945037665
+E-state keys (sums): S_ssCH2 (Fast Descriptors),0.45100706733635715
+Kappa-2 (alpha modified) (Fast Descriptors),0.4599821144658026
+Kappa-1 (alpha modified) (Fast Descriptors),0.46895716159524814
+Kappa-3 (Fast Descriptors),0.47793220872469366
+Balaban index JX (Fast Descriptors),0.4867537980679227
+Wiener index (Fast Descriptors),0.49557538741115176
+Balaban index JY (Fast Descriptors),0.5043969767543808
+Principal moment of inertia Z (Spatial Descriptors),0.5131021417493224
+Principal moment of inertia Y (Spatial Descriptors),0.5218073067442641

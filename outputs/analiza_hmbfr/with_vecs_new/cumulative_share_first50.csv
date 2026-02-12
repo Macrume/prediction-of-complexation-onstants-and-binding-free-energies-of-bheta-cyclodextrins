@@ -1,0 +1,51 @@
+,0
+TPSA,0.013451053737753509
+MolecularWeight,0.026902107475507017
+Complexity,0.040353161213260526
+HBondDonorCount,0.051909934483460714
+HBondAcceptorCount,0.06346670775366091
+HeavyAtomCount,0.0750234810238611
+iso2vec-0,0.08654586981843235
+MolLogP,0.09806825861300358
+iso2vec-1,0.10959064740757483
+iso2vec-2,0.12089462609763023
+iso2vec-3,0.13219860478768564
+AlogP (Fast Descriptors),0.14299826450604355
+Molecular refractivity (Fast Descriptors),0.1537979242244015
+AlogP98 (Fast Descriptors),0.16459758394275945
+Charge,0.17438987473021403
+Rotatable bonds (Fast Descriptors),0.1841764049771832
+Element count (Atomistic Descriptors),0.19396293522415242
+Hydrogen bond donor (Fast Descriptors),0.2037494654711216
+Molecular flexibility (Fast Descriptors),0.2133139996830033
+Atom count (Atomistic Descriptors),0.2228505450540375
+Shadow area fraction: YZ plane (Spatial Descriptors),0.23215850352251174
+Shadow area fraction: XY plane (Spatial Descriptors),0.24146646199098595
+Shadow area: ZX plane (Spatial Descriptors),0.2507744204594602
+Shadow area fraction: ZX plane (Spatial Descriptors),0.25979551741930873
+Shadow length: LX (Spatial Descriptors),0.26881661437915727
+Ellipsoidal volume (Spatial Descriptors),0.2775323168379406
+Shadow area: XY plane (Spatial Descriptors),0.28624801929672394
+Radius of gyration (Spatial Descriptors),0.2949637217555073
+Solvent surface area (Atom Volumes and Surfaces),0.3033703943864307
+Connolly surface occupied volume (Atom Volumes and Surfaces),0.3117770670173542
+Connolly surface area (Atom Volumes and Surfaces),0.3201837396482776
+Kappa-1 (Fast Descriptors),0.32838714446924405
+Zagreb index (Fast Descriptors),0.3365905492902105
+Kappa-2 (Fast Descriptors),0.34479395411117697
+Shadow ratio (Spatial Descriptors),0.35279695492702146
+Shadow length: LZ (Spatial Descriptors),0.36079995574286594
+iso2vec-4,0.3686770255925054
+iso2vec-5,0.37655409544214496
+iso2vec-6,0.38443116529178445
+Chi (1) (valence modified) (Fast Descriptors),0.3923034989845161
+Chi (2) (valence modified) (Fast Descriptors),0.4001758326772477
+Chi (3): path (valence modified) (Fast Descriptors),0.40804816636997937
+Chi (3): chain (Fast Descriptors),0.41589714976242587
+Chi (0) (valence modified) (Fast Descriptors),0.4237461331548723
+Solvent surface occupied volume (Atom Volumes and Surfaces),0.43156326186396915
+Subgraph counts (0): path (Fast Descriptors),0.4393660891903991
+Kappa-3 (alpha modified) (Fast Descriptors),0.44716891651682905
+Subgraph counts (1): path (Fast Descriptors),0.45497174384325906
+iso2vec-7,0.46277003142157275
+Hydrogen bond acceptor (Fast Descriptors),0.4705174279530627

@@ -1,0 +1,25 @@
+{
+  "dataset": "with_vecs_new",
+  "problem": "regression",
+  "n_samples": 980,
+  "n_features_full": 166,
+  "palette_kind": "32",
+  "use_backward": true,
+  "agg_features": "max",
+  "group_size": 3,
+  "topk_list": [
+    32,
+    64,
+    128
+  ],
+  "files": {
+    "X_full": "analiza_hmbfr/with_vecs_new/trainready/X_full.parquet",
+    "y": "analiza_hmbfr/with_vecs_new/trainready/y.parquet",
+    "compressed_indices": "analiza_hmbfr/with_vecs_new/trainready/compressed_indices.npy",
+    "palette": "analiza_hmbfr/with_vecs_new/trainready/palette.npy",
+    "compressed_images": null,
+    "X_top32": "analiza_hmbfr/with_vecs_new/trainready/X_top32.parquet",
+    "X_top64": "analiza_hmbfr/with_vecs_new/trainready/X_top64.parquet",
+    "X_top128": "analiza_hmbfr/with_vecs_new/trainready/X_top128.parquet"
+  }
+}
